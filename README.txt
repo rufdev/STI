@@ -3,3 +3,5 @@ HELLO STI
 HALAKA WAW
 
 WEEEE
+
+char char
